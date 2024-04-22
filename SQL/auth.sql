@@ -1,0 +1,1 @@
+SELECT * FROM ekkoLogin WHERE user_login = '$user' and user_pass = '$pass;
